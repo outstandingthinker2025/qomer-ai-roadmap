@@ -1,2 +1,12 @@
-# qomer-ai-roadmap
-Projects and learning roadmap for Qomer AI — Intelligent Farm System
+## Project Structure (initial)
+
+qomer-ai-roadmap/
+│
+├── src/
+│ └── hello_qomer.py
+│
+├── docs/
+│
+├── tests/
+│
+└── README.md
